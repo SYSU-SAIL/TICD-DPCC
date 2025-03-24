@@ -1,4 +1,4 @@
-# Correlation Diffusion &amp; Hierarchical Prediction for Octree-Based Dynamic Point Cloud Compression
+# Iterative Tree-structured Correlation Diffusion for Hierarchical Dynamic Point Cloud Compression
 
 ## Overview  
 
